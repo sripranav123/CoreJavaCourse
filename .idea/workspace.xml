@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3209bc2d-8131-42b2-a09f-a30cf02eb1d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJavaCourse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Calculator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/CloneExample.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Sumofdigits.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Vowels.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hp9UsfoIxI68bY5RIASH4alWeg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayListExample.executor": "Run",
+    "Application.ArrayListStreams.executor": "Run",
+    "Application.Arrays.executor": "Run",
+    "Application.BankApplication.executor": "Run",
+    "Application.BasicThreadExample.executor": "Run",
+    "Application.BufferReaderExample.executor": "Run",
+    "Application.BufferedWriteExample.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CloneExample.executor": "Run",
+    "Application.ComparatorExample.executor": "Run",
+    "Application.ConcurrentHashMapExample.executor": "Run",
+    "Application.CountLetters.executor": "Run",
+    "Application.DeserializeObject.executor": "Run",
+    "Application.DirectoryExample.executor": "Run",
+    "Application.EmployeeJDBC.executor": "Run",
+    "Application.Even.executor": "Run",
+    "Application.ExampleIterator.executor": "Run",
+    "Application.ExceptionHierarchyExample.executor": "Run",
+    "Application.Exchange.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Fibonnaci.executor": "Run",
+    "Application.FileExample.executor": "Run",
+    "Application.FileInputStreeamExample.executor": "Run",
+    "Application.FileOutputStreamExample.executor": "Run",
+    "Application.FileReadExample.executor": "Run",
+    "Application.FileWriterExample.executor": "Run",
+    "Application.FinalTest.executor": "Debug",
+    "Application.For.executor": "Run",
+    "Application.ForestAndHouse.executor": "Run",
+    "Application.HashMapExample.executor": "Run",
+    "Application.HashmapStreamsExample.executor": "Run",
+    "Application.HashtableExample.executor": "Run",
+    "Application.HotelBooking.executor": "Run",
+    "Application.JdbcExample.executor": "Run",
+    "Application.LargeSmall.executor": "Run",
+    "Application.LinkedListExample.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxInVector.executor": "Run",
+    "Application.Month.executor": "Run",
+    "Application.Multiplication.executor": "Run",
+    "Application.ObjectExample.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.Prime.executor": "Run",
+    "Application.PrimeMethod.executor": "Run",
+    "Application.ProducerConsumerExample.executor": "Run",
+    "Application.ProducerConsumerExecuterServiceExample.executor": "Run",
+    "Application.ReadInput.executor": "Run",
+    "Application.Replace.executor": "Run",
+    "Application.Reverse.executor": "Run",
+    "Application.SerializeDemo.executor": "Run",
+    "Application.SetStreamsExamples.executor": "Run",
+    "Application.Sorting.executor": "Run",
+    "Application.StringManipulation.executor": "Run",
+    "Application.Sumofdigits.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.ThreadStatesExample.executor": "Run",
+    "Application.UsingMyInteger.executor": "Run",
+    "Application.UsingSet.executor": "Run",
+    "Application.Vowels.executor": "Run",
+    "Application.While.executor": "Run",
+    "Application.usingMyInteger.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/sripr/IdeaProjects/CoreJavaCourse/lib/postgresql-42.7.3.jar",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3209bc2d-8131-42b2-a09f-a30cf02eb1d7" name="Changes" comment="" />
+      <created>1718280175953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718280175953</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ReadInput.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
